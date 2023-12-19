@@ -1,0 +1,18 @@
+body {
+    background-color: beige;
+    padding: 0;
+    margin: 0;
+    font-family: "Rubik Doodle Shadow";
+    text-align: center;
+}
+
+button {
+    padding: 20px 50px 20px 50px;
+    background-color: burlywood;
+    font-size: 20px;
+}
+
+img {
+    width: 40%;
+    height: auto;
+}
